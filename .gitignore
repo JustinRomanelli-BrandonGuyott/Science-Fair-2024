@@ -1,4 +1,4 @@
-dependencies/__pycache__/
-functions/__pycache__/
+/dependencies/__pycache__/
+/functions/__pycache__/
 Pipfile
 Pipfile.lock
